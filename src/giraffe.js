@@ -1,3 +1,15 @@
+/*
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// 8
+// 9
+// 10
+*/
 var giraffeMaker = function(name, height) {
   var newGiraffe = {};
   newGiraffe.name = name;
