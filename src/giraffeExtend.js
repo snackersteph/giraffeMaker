@@ -1,4 +1,5 @@
 //extending properties saves you from having to add each one individually.
+// This is a new comment to learn how the Git Workflow
 
 var giraffeMaker = function(name, height) {
   var newGiraffe = {};
